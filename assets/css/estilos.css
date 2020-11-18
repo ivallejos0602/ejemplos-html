@@ -1,0 +1,57 @@
+.div-a{
+color: blue;
+
+}
+
+.div-b{
+color: brown;
+
+}
+
+.div-c{
+color: chartreuse;
+
+}
+
+.div-d{
+    height: 400px;
+    width: 400px;
+    padding: 7px;
+    border: 3px;
+    background-color: coral;
+
+}
+
+.letra-mediana{
+    font-size: 45px;
+
+}
+
+.lista-item-cuadrado{
+
+    list-style-type: square;
+}
+
+.lista-item-alfa{
+
+    list-style-type: lower-roman;
+}
+
+.texto-derecha{
+    text-align: right;
+}
+
+div.a {
+    text-transform: uppercase;
+    font-style: italic;
+    
+  }
+  
+  div.b {
+    text-transform: lowercase;
+  }
+  
+  div.c {
+    font-style: italic;
+    text-transform: capitalize;
+  }
